@@ -1,0 +1,25 @@
+#calc-box{
+    width: 200px;
+}
+
+h1{
+    text-align: end;
+}
+
+.numbers + .function{
+    width: 40px;
+    display: flex;
+    flex: space-between;
+}
+
+#zero{
+    width: 120px !important;
+}
+
+#equals{
+    width: 79px !important;
+}
+
+#clear{
+    width: 70px;
+}
